@@ -1,20 +1,13 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    SCHOOL MANAGEMENT SYSTEM WITH AI ASSISTANCE
 </h1>
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
 Seamlessly track attendance, assess performance, and provide feedback. <br>
-Access records, view marks, and communicate effortlessly.
+Access records, view marks,  communicate effortlessly.(AI ASSISTACE GIVES YOU THE ANAYTICS,ACCESS TO DATA BASED ON ROLE FROM THE DATABASE RELATED.ALL THIS THROUGH NLP(NATURAL LANGUAGE PROCESSING). 
 </h3>
 
-<p>
-  <a href="https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC">Youtube Video</a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/yogndrr/">LinkedIn</a>
-</p>
 
 
 # About
