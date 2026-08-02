@@ -41,7 +41,7 @@ The School Management System is a web-based application built using the MERN (Mo
 Clone the project:
 
 ```
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/wahidsk052806/SchoolManagement-with-AI-Assistance
 ```
 
 There are three branches in this repository. Each serves a different purpose.
