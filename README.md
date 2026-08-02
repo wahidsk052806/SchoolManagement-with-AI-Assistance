@@ -3,9 +3,9 @@
 </h1>
 
 <h3 align="center">
-Streamline school management, class organization, and add students and faculty.<br>
-Seamlessly track attendance, assess performance, and provide feedback. <br>
-Access records, view marks,  communicate effortlessly.(AI ASSISTACE GIVES YOU THE ANAYTICS,ACCESS TO DATA BASED ON ROLE FROM THE DATABASE RELATED.ALL THIS THROUGH NLP(NATURAL LANGUAGE PROCESSING). 
+Simplify school management by organizing classes, managing students and faculty, and tracking attendance effortlessly.<br>
+Analyze academic performance, access records, and communicate efficiently through a unified platform.<br>
+Experience AI-powered assistance with role-based database access, intelligent analytics, and natural language interactions using NLP for quick and accurate insights. 
 </h3>
 
 
